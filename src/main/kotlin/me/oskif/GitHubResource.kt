@@ -9,7 +9,7 @@ import org.eclipse.microprofile.rest.client.inject.RestClient
 import org.jboss.resteasy.reactive.RestResponse
 
 @Path("/repos")
-class GreetingResource {
+class GitHubResource {
 
     @Inject
     @RestClient

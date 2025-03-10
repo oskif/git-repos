@@ -10,7 +10,7 @@ import org.junit.jupiter.api.Test
 import kotlin.test.assertEquals
 
 @QuarkusTest
-class GreetingResourceTest {
+class GitHubResourceTest {
 
     @Test
     fun testGetRepositoriesEndpoint() {
